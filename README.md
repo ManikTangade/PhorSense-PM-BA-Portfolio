@@ -55,7 +55,7 @@ The following artifacts were created as part of this project:
   [`AI_Integration_Plan/`](./AI_Integration_Plan)
 
 - 📊 **Presentation — AI-Enhanced Smart Payment Routing & Instant Retry**
-  [`Presentation/`](./Presentation)
+  [`Presentation/`](Project_Presentation.pptx)
 
 - 🗓 **WBS, Schedule & Team Structure**
   [`WBS_Schedule_Team/`](./WBS_Schedule_Team)
