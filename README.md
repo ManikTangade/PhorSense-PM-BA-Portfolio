@@ -49,7 +49,7 @@ on a mid-size Indian payments-aggregator's orchestration platform.
 The following artifacts were created as part of this project:
 
 - 📄 **Business Requirements Document (BRD)**
-  [`BRD_PhorSense/`](./BRD_PhorSense)
+  [`BRD_PhorSense/`](BRD_PhorSense.pdf)
 
 - 🤖 **AI Integration Plan**
   [`AI_Integration_Plan/`](./AI_Integration_Plan)
