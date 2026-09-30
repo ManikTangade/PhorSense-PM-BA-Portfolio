@@ -53,6 +53,7 @@ The following artifacts were created as part of this project:
 
 - 🤖 **AI Integration Plan**
   [`AI_Integration_Plan/`](AI integrartion plan.docx)
+  [`AI_Integration_Plan/`](BRD_PhorSense.pdf)
 
 - 📊 **Presentation — AI-Enhanced Smart Payment Routing & Instant Retry**
   [`Presentation/`](Project_Presentation.pptx)
